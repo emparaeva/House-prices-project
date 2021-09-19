@@ -1,1 +1,2 @@
-# House-prices-project
+# House prices project
+### Predicting house prices in Boston using machine learning models
